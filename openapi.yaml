@@ -1,0 +1,5 @@
+﻿openapi: 3.0.3
+info:
+  title: Kigula Delivery API (minimal)
+  version: 0.1.0
+
